@@ -27,6 +27,16 @@ header{
     padding: 10px;
 }
 
+.product-advantage{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.product-advantage li{
+    padding: 8px;
+    font-family: sans-serif;
+}
+
 button{
     padding: 10px;
     margin-right: 4px;
