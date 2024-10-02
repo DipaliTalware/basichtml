@@ -1,0 +1,43 @@
+
+.nav-element{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    background: lightseagreen;
+    padding: 20px;
+    margin: 0px;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+header{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.product-image{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product-details{
+  margin-left: 20px;
+    padding: 10px;
+}
+
+button{
+    padding: 10px;
+    margin-right: 4px;
+}
+
+select{
+    padding: 10px;
+    margin-left: 4px;
+}
+
+
+.checked{
+    color: orange;
+}
